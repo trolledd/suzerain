@@ -1,0 +1,1 @@
+Heavily inspired by [Magic-Symon] (https://github.com/stevenhoekerd/Magic-Symon)
